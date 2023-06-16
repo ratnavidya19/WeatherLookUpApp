@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/layout_activity_weather_info.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/layout/activity_weather_info.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/drawable_humidity.png.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/drawable/humidity.png"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/layout_layout_back.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/layout/layout_back.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/drawable_cloudy.jpg.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/drawable/cloudy.jpg"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/drawable_cloud.png.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/drawable/cloud.png"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/drawable_launchergradient.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/drawable/launchergradient.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/layout_list_layout_weather.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/layout/list_layout_weather.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-pngs-25:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/drawable_clear.jpg.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/drawable/clear.jpg"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/drawable_rain.jpg.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/drawable/rain.jpg"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-anydpi-v26_back_arrow.png.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-anydpi-v26/back_arrow.png"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/xml_backup_rules.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/layout_activity_splash.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.ratnavidyakanawade.myapplication.app-merged_res-30:/layout_list_layout_weather.xml.flat",
+        "source": "com.ratnavidyakanawade.myapplication.app-main-32:/layout/list_layout_weather.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/drawable_windspeed.jpeg.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/drawable/windspeed.jpeg"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/anim_slide_down.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-merged_res-30:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "/Users/ratnavidya_kanawade/.gradle/daemon/7.5/com.ratnavidyakanawade.myapplication.app-main-32:/drawable/baseline_arrow_back_24.xml"
+    }
+]
